@@ -1,0 +1,8 @@
+2018-11-24 17:24:28.079 ERROR [http-nio-8082-exec-1] com.tgc.exception.GlobalExceptionHandler.resultError:27 - CodeMsg [code=500214, msg=手机号不存在]
+2018-11-24 17:24:39.288 ERROR [http-nio-8080-exec-8] com.tgc.exception.GlobalExceptionHandler.resultError:27 - CodeMsg [code=500214, msg=手机号不存在]
+2018-11-24 17:26:25.964 ERROR [http-nio-8082-exec-6] com.tgc.exception.GlobalExceptionHandler.resultError:27 - CodeMsg [code=500214, msg=手机号不存在]
+2018-11-24 17:26:31.804 ERROR [http-nio-8082-exec-7] com.tgc.exception.GlobalExceptionHandler.resultError:27 - CodeMsg [code=500214, msg=手机号不存在]
+2018-11-24 17:26:41.982 ERROR [http-nio-8082-exec-9] com.tgc.exception.GlobalExceptionHandler.resultError:27 - CodeMsg [code=500214, msg=手机号不存在]
+2018-11-24 17:28:41.609 ERROR [http-nio-8082-exec-6] com.tgc.exception.GlobalExceptionHandler.resultError:27 - CodeMsg [code=500214, msg=手机号不存在]
+2018-11-24 17:28:53.267 ERROR [http-nio-8081-exec-3] com.tgc.exception.GlobalExceptionHandler.resultError:27 - CodeMsg [code=500214, msg=手机号不存在]
+2018-11-24 17:30:21.514 ERROR [http-nio-8082-exec-8] com.tgc.exception.GlobalExceptionHandler.resultError:27 - CodeMsg [code=500214, msg=手机号不存在]

@@ -1,0 +1,7 @@
+SpringBoot配置文件默认可以放到以下目录中，可以自动读取到：
+
+项目根目录下
+项目根目录中config目录下
+项目的resources目录下
+项目resources目录中config目录下
+
